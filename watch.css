@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+*{padding:0;
+    margin: 0;}
+
+    
+    ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 100%;
+    position: fixed;
+    margin-right: 50px;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: rgb(32, 28, 28);
+    
+   
+}
+li{
+    margin-right: 200px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(179, 169, 169);
+}
+div{
+    color: black;
+}
+h1{
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+.h2{
+    font-size: 30px;
+    margin-top: -40px;
+    margin-left: 550px;
+    font-family: 'Oswald', sans-serif;
+}
+.h2h{
+    font-size: 30px;
+    margin-top: -37px;
+    margin-left: 850px;
+    font-family: 'Oswald', sans-serif;
+}
+.main{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin-left: 1300px;
+    margin-top: -60px;
+    font-family: 'Do Hyeon', sans-serif;
+   
+}
+.img1{
+    width: 50px;
+}
+.div1{
+    width: 1522px;
+    height: 40px;
+    display: flex;
+    margin-top: 110px;
+    margin-left: -1400px;
+    
+    
+}
+.button1{
+    transition-duration: 0,5s;
+    background-color: rgb(65, 65, 189);
+    color: rgb(255, 255, 255);
+    width: 600px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+.button1:hover{
+   background-color: rgb(240, 243, 240);
+   color: black;}
+   
+   .img2{
+      display: flex;
+      
+       width: 2000px;
+       height: 900px;
+   }
+   .header{
+       background-image: url(https://postfactum.pro/wp-content/uploads/2020/01/img_5e199449f19e2.jpg);
+       height: 500px;
+       width: 100%;
+       background-size: cover;
+       background-position: center;
+   }
+   .maine{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    
+   }
+   .div3{
+    height: 290px;
+    padding: 10px;
+    margin: 10px;
+    width: 230px;
+    background-color: rgb(255, 255, 255);
+    border: solid 2px rgb(160, 149, 148);
+    border-radius: 18px;
+}
+.img3{
+    width: 170px;
+    padding-left: 20px;
+}
+.p1{
+    color: rgb(39, 39, 184);
+    font-size: 25px;
+}
+.img4{
+ width: 200px;
+}
+.img5{
+    width: 200px;
+}
+.img6{
+    width: 150px;
+    padding-left: 20px;
+}
+.img7{
+    width: 100px;
+}
+.p2{
+    font-size: 20px;
+    color: rgb(65, 131, 206);
+    padding-left: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    width: 100px;
+}
+.divall{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -100px;
+    margin-top: 100px; 
+}
+.div5{
+    background-color: rgb(65, 131, 206);
+    width: 140px;
+    font-family: 'Teko', sans-serif;
+}
+.facebook{
+    width: 50px;
+    justify-content: center
+}
+.div5{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1500px;
+    font-size: 20px;
+    height: 250px;
+}
+.div6{
+    padding-top: 20px;
+}
