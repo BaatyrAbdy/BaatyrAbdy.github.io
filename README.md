@@ -1,0 +1,1 @@
+# BaatyrAbdy.github.io
